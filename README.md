@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @elgatofeliz
-- 👀 I’m interested in all sort of new things
-- 🌱 I’m currently learning HTML, CSS and JavaScript from scratch in a Bootcamp
-- 📫 How to reach me ... PM!
+Hi, I'm bjørn and I'm a Web Developer.
+Currently studying at SuperCode learning HTML ,CSS, JavaScript, React, NodeJS, MongoDB 
+and several other technologies related to Front- and Backend Web Development.
 
-<!---
-elgatofeliz/elgatofeliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'll start Freelancing in March 2022, building pages from design templates. I'm open to any new impulses if
+it resonates.
+
+Have a look at my repos and feel free to contact me :)
