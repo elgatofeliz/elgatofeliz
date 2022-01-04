@@ -6,3 +6,6 @@ I'll start Freelancing in March 2022, building pages from design templates. I'm 
 it resonates.
 
 Have a look at my repos and feel free to contact me :)
+
+Have a look at my LinkedIn profile:
+https://www.linkedin.com/in/bjoern-rademacher/
